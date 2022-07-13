@@ -11,12 +11,12 @@
     |-- test_without_label.txt
 |-- p5.ipynb # 在这里面运行每个单元格即可
 |-- test_with_label.txt #测试结果
-|-- 实验五数据.zip #因为大于25MB所以无法上传，运行时需要该zip文件
+|-- 实验五数据.zip #因为大于25MB所以无法上传，colab上运行unzip时需要该zip文件,如果有本地文件就不需要
 ```
 
 ## 3.代码执行流程
 运行p5.ipynb中的每个单元格即可（需要在google colab上运行）\
-本地运行时则从一下单元格开始运行即可
+本地运行时则从一下单元格开始运行即可（需要提前解压实验五数据.zip文件）
 ```
 import transformers
 import pandas as pd
