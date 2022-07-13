@@ -25,5 +25,5 @@ import torch
 
 
 ## 4.参考库
-https://github.com/huggingface/transformers
+https://github.com/huggingface/transformers\
 使用的预训练模型bert为trainsformers中的，resnet101则在torchvison包中
