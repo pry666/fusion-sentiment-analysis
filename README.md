@@ -16,6 +16,13 @@
 
 ## 3.代码执行流程
 运行p5.ipynb中的每个单元格即可（需要在google colab上运行）
+本地运行时则从一下单元格开始运行即可
+```
+import transformers
+import pandas as pd
+import torch
+```
+
 
 ## 4.参考库
 https://github.com/huggingface/transformers
